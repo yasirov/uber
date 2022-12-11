@@ -1,0 +1,7 @@
+@mixin btn_hover {
+    &:hover {
+        transition: 1s all;
+        background-image: none;
+        background-color: $color_rose;
+    }
+}

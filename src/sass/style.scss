@@ -1,0 +1,16 @@
+@import "_mixins";
+@import "_media";
+@import "_variables";
+@import "_general";
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+@import "_mixins";
+@import "_media";
+@import "_variables";
+@import "_general";
